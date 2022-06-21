@@ -2,15 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Alan Topczylo</h1>
 <h3 align="center">A Full-Stack developer based in Argentina</h3>
-<p align="left">I stand out for my solid communication tools, cold mind in difficult situations and the ability and/or need to be in constant learning. I love creating apps that meet people's needs.
-
-
-█ Poseo conocimientos en Git y trabajo en equipo con metodologías ágiles: SCRUM.
-
-¿Queres saber mas de mi? Contactame! 
-
-🔔 WhatsApp: +54 9 2216176057 | wa.link/5gkvqz
-🔔 Email: alantopczylo@gmail.com</p>
+<h4 align="left">I stand out for my solid communication tools, cold mind in difficult situations and the ability and/or need to be in constant learning. I love creating apps that meet people's needs.</h4>
 
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7b74c6396b4fe40895b2d3da58b95e97abbd2e15c5ef58be30e954fc1b059da8/68747470733a2f2f692e696d6775722e636f6d2f384d75705a48592e676966">
 
